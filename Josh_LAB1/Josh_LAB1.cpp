@@ -1,3 +1,4 @@
+//Edited on GitHub
 // Josh_LAB1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
